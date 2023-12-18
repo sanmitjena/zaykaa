@@ -1,2 +1,2 @@
-# zaykaa
-food
+# my resume
+my profile
